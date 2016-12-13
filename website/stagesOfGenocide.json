@@ -1,0 +1,42 @@
+[
+  {
+    "stage": "Classification",
+    "characteristics": "People are divided into \"us and them\".",
+    "preventive_measures": "The main preventive measure at this early stage is to develop universalistic institutions that transcend... divisions."
+  },
+  {
+    "stage": "Symbolization",
+    "characteristics": "When combined with hatred, symbols may be forced upon unwilling members of pariah groups...",
+    "preventive_measures": "To combat symbolization, hate symbols can be legally forbidden as can hate speech."
+  },
+  {
+    "stage": "Dehumanization",
+    "characteristics": "One group denies the humanity of the other group. Members of it are equated with animals, vermin, insects, or diseases.",
+    "preventive_measures": "Local and international leaders should condemn the use of hate speech and make it culturally unacceptable. Leaders who incite genocide should be banned from international travel and have their foreign finances frozen."
+  },
+  {
+    "stage": "Organization",
+    "characteristics": "Genocide is always organized... Special army units or militias are often trained and armed...",
+    "preventive_measures": "The U.N. should impose arms embargoes on governments and citizens of countries involved in genocidal massacres, and create commissions to investigate violations"
+  },
+  {
+    "stage": "Polarization",
+    "characteristics": "Hate groups broadcast polarizing propaganda...",
+    "preventive_measures": "Prevention may mean security protection for moderate leaders or assistance to human rights groups...Coups d’état by extremists should be opposed by international sanctions."
+  },
+  {
+    "stage": "Preparation",
+    "characteristics": "Victims are identified and separated out because of their ethnic or religious identity...",
+    "preventive_measures": "At this stage, a Genocide Emergency must be declared. ..."
+  },
+  {
+    "stage": "Extermination",
+    "characteristics": "It is 'extermination' to the killers because they do not believe their victims to be fully human.",
+    "preventive_measures": "At this stage, only rapid and overwhelming armed intervention can stop genocide. Real safe areas or refugee escape corridors should be established with heavily armed international protection."
+  },
+  {
+    "stage": "Denial",
+    "characteristics": "The perpetrators... deny that they committed any crimes...",
+    "preventive_measures": "The response to denial is punishment by an international tribunal or national courts"
+  }
+]
